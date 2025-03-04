@@ -61,4 +61,7 @@
   <data name="Property_Name" xml:space="preserve">
     <value>Name</value>
   </data>
+  <data name="Property_Employee" xml:space="preserve">
+    <value>Employee</value>
+  </data>
 </root>
